@@ -1,0 +1,202 @@
+
+CardSpine_12010015.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui_L
+  rotate: true
+  xy: 249, 16
+  size: 99, 166
+  orig: 99, 166
+  offset: 0, 0
+  index: -1
+datui_R
+  rotate: false
+  xy: 801, 31
+  size: 87, 138
+  orig: 87, 138
+  offset: 0, 0
+  index: -1
+erduo_L
+  rotate: true
+  xy: 527, 162
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+gunzi
+  rotate: true
+  xy: 924, 596
+  size: 421, 23
+  orig: 421, 23
+  offset: 0, 0
+  index: -1
+houzhaoqun
+  rotate: false
+  xy: 809, 172
+  size: 78, 143
+  orig: 78, 143
+  offset: 0, 0
+  index: -1
+hudie
+  rotate: false
+  xy: 924, 389
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+hudiejie_L
+  rotate: false
+  xy: 526, 47
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+hudiejie_R
+  rotate: true
+  xy: 644, 171
+  size: 144, 163
+  orig: 144, 163
+  offset: 0, 0
+  index: -1
+l_eye_hurt
+  rotate: false
+  xy: 872, 345
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+l_eye_stun
+  rotate: true
+  xy: 2, 2
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+l_eye_x1
+  rotate: false
+  xy: 872, 378
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 650, 688
+  size: 272, 329
+  orig: 272, 329
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 2, 117
+  size: 382, 313
+  orig: 382, 313
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 386, 181
+  size: 139, 249
+  orig: 139, 249
+  offset: 0, 0
+  index: -1
+quanzhang
+  rotate: false
+  xy: 513, 476
+  size: 135, 541
+  orig: 135, 541
+  offset: 0, 0
+  index: -1
+shangbi_L
+  rotate: false
+  xy: 889, 295
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 650, 411
+  size: 272, 275
+  orig: 272, 275
+  offset: 0, 0
+  index: -1
+shou_L
+  rotate: true
+  xy: 924, 492
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+shou_R
+  rotate: false
+  xy: 2, 19
+  size: 245, 96
+  orig: 245, 96
+  offset: 0, 0
+  index: -1
+shouzhi_R
+  rotate: false
+  xy: 949, 619
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 2, 432
+  size: 509, 585
+  orig: 509, 585
+  offset: 0, 0
+  index: -1
+xiaobi_L
+  rotate: false
+  xy: 417, 57
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+xiaotui_L
+  rotate: true
+  xy: 644, 317
+  size: 92, 226
+  orig: 92, 226
+  offset: 0, 0
+  index: -1
+xiaotui_R
+  rotate: false
+  xy: 949, 836
+  size: 72, 181
+  orig: 72, 181
+  offset: 0, 0
+  index: -1
+xiuzi_L
+  rotate: true
+  xy: 663, 40
+  size: 129, 136
+  orig: 129, 136
+  offset: 0, 0
+  index: -1
+xiuzi_R
+  rotate: false
+  xy: 949, 684
+  size: 71, 150
+  orig: 71, 150
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 527, 253
+  size: 221, 115
+  orig: 221, 115
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 513, 455
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1

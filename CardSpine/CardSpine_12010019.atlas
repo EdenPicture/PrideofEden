@@ -1,0 +1,202 @@
+
+CardSpine_12010019.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 216, 641
+  size: 377, 320
+  orig: 377, 320
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 411, 23
+  size: 336, 198
+  orig: 336, 198
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 2, 587
+  size: 212, 431
+  orig: 212, 431
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 2, 190
+  size: 301, 395
+  orig: 301, 395
+  offset: 0, 0
+  index: -1
+005
+  rotate: true
+  xy: 749, 20
+  size: 162, 77
+  orig: 162, 77
+  offset: 0, 0
+  index: -1
+006
+  rotate: true
+  xy: 538, 941
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 266, 593
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+008
+  rotate: true
+  xy: 216, 589
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 305, 190
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 589, 886
+  size: 158, 132
+  orig: 158, 132
+  offset: 0, 0
+  index: -1
+011
+  rotate: true
+  xy: 749, 852
+  size: 166, 270
+  orig: 166, 270
+  offset: 0, 0
+  index: -1
+012
+  rotate: true
+  xy: 589, 507
+  size: 130, 84
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+013
+  rotate: true
+  xy: 337, 2
+  size: 219, 72
+  orig: 219, 72
+  offset: 0, 0
+  index: -1
+014
+  rotate: true
+  xy: 675, 527
+  size: 110, 69
+  orig: 110, 69
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 589, 736
+  size: 157, 148
+  orig: 157, 148
+  offset: 0, 0
+  index: -1
+015_1
+  rotate: true
+  xy: 868, 343
+  size: 157, 148
+  orig: 157, 148
+  offset: 0, 0
+  index: -1
+015_2
+  rotate: true
+  xy: 868, 184
+  size: 157, 148
+  orig: 157, 148
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 474, 598
+  size: 103, 41
+  orig: 103, 41
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 613, 639
+  size: 133, 95
+  orig: 133, 95
+  offset: 0, 0
+  index: -1
+018
+  rotate: true
+  xy: 828, 98
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+019
+  rotate: false
+  xy: 538, 646
+  size: 73, 88
+  orig: 73, 88
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 2, 15
+  size: 333, 173
+  orig: 333, 173
+  offset: 0, 0
+  index: -1
+021
+  rotate: false
+  xy: 749, 502
+  size: 266, 348
+  orig: 266, 348
+  offset: 0, 0
+  index: -1
+022
+  rotate: false
+  xy: 305, 223
+  size: 282, 368
+  orig: 282, 368
+  offset: 0, 0
+  index: -1
+023
+  rotate: false
+  xy: 589, 223
+  size: 277, 277
+  orig: 277, 277
+  offset: 0, 0
+  index: -1
+r_eye_1
+  rotate: true
+  xy: 348, 597
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+r_eye_hurt
+  rotate: true
+  xy: 390, 597
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+r_eye_stun
+  rotate: true
+  xy: 432, 597
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1

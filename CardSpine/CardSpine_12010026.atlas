@@ -1,0 +1,181 @@
+
+CardSpine_12010026.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0
+  rotate: true
+  xy: 275, 118
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 337, 373
+  size: 83, 137
+  orig: 83, 137
+  offset: 0, 0
+  index: -1
+1_10
+  rotate: true
+  xy: 422, 412
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: false
+  xy: 248, 21
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: false
+  xy: 360, 161
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: false
+  xy: 360, 204
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+1_14
+  rotate: true
+  xy: 276, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+1_15
+  rotate: false
+  xy: 248, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+1_16
+  rotate: false
+  xy: 324, 157
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+1_17
+  rotate: false
+  xy: 444, 164
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+1_18
+  rotate: true
+  xy: 449, 346
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+1_19
+  rotate: false
+  xy: 2, 16
+  size: 244, 163
+  orig: 244, 163
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 248, 118
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+1_20
+  rotate: false
+  xy: 324, 117
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+1_21
+  rotate: false
+  xy: 2, 181
+  size: 251, 329
+  orig: 251, 329
+  offset: 0, 0
+  index: -1
+1_22
+  rotate: false
+  xy: 255, 239
+  size: 80, 124
+  orig: 80, 124
+  offset: 0, 0
+  index: -1
+1_23
+  rotate: false
+  xy: 275, 144
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+1_24
+  rotate: false
+  xy: 286, 22
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 285, 70
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 449, 201
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: true
+  xy: 255, 185
+  size: 52, 103
+  orig: 52, 103
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 248, 69
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 255, 365
+  size: 80, 145
+  orig: 80, 145
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: false
+  xy: 337, 256
+  size: 101, 115
+  orig: 101, 115
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: true
+  xy: 449, 282
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1

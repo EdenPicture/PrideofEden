@@ -1,0 +1,244 @@
+
+CardSpine_12020002.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erfa
+  rotate: true
+  xy: 462, 25
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+honglian
+  rotate: true
+  xy: 974, 493
+  size: 123, 23
+  orig: 123, 23
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 681, 280
+  size: 135, 174
+  orig: 135, 174
+  offset: 0, 0
+  index: -1
+hudiejie1
+  rotate: true
+  xy: 881, 244
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+hudiejie4
+  rotate: false
+  xy: 926, 245
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+l_eye_hurt
+  rotate: false
+  xy: 802, 253
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+l_eye_stun
+  rotate: true
+  xy: 243, 7
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+l_eye_x1
+  rotate: true
+  xy: 802, 178
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+leisi
+  rotate: false
+  xy: 681, 456
+  size: 195, 160
+  orig: 195, 160
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 467, 181
+  size: 212, 435
+  orig: 212, 435
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 966, 407
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: true
+  xy: 2, 2
+  size: 147, 239
+  orig: 147, 239
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: true
+  xy: 243, 21
+  size: 128, 217
+  orig: 128, 217
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 678, 779
+  size: 332, 243
+  orig: 332, 243
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 1012, 906
+  size: 116, 10
+  orig: 116, 10
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 678, 618
+  size: 326, 159
+  orig: 326, 159
+  offset: 0, 0
+  index: -1
+r_eye_1
+  rotate: true
+  xy: 561, 71
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+r_eye_hurt
+  rotate: true
+  xy: 561, 42
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+r_eye_stun
+  rotate: false
+  xy: 588, 76
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: true
+  xy: 681, 170
+  size: 108, 119
+  orig: 108, 119
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 2, 151
+  size: 463, 465
+  orig: 463, 465
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 618
+  size: 674, 404
+  orig: 674, 404
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 818, 314
+  size: 140, 61
+  orig: 140, 61
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 467, 100
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: true
+  xy: 881, 283
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 802, 192
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+youwan
+  rotate: true
+  xy: 679, 84
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 878, 469
+  size: 94, 147
+  orig: 94, 147
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 802, 170
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 579, 103
+  size: 76, 98
+  orig: 76, 98
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: false
+  xy: 767, 83
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 818, 253
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+zuowan
+  rotate: false
+  xy: 966, 332
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 881, 346
+  size: 83, 121
+  orig: 83, 121
+  offset: 0, 0
+  index: -1

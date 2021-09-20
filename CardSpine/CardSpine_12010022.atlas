@@ -1,0 +1,111 @@
+
+CardSpine_12010022.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi1y
+  rotate: true
+  xy: 327, 424
+  size: 250, 326
+  orig: 250, 326
+  offset: 0, 0
+  index: -1
+chi1z
+  rotate: false
+  xy: 2, 603
+  size: 323, 407
+  orig: 323, 407
+  offset: 0, 0
+  index: -1
+chi2y
+  rotate: false
+  xy: 595, 686
+  size: 369, 147
+  orig: 369, 147
+  offset: 0, 0
+  index: -1
+chi2z
+  rotate: false
+  xy: 595, 835
+  size: 403, 175
+  orig: 403, 175
+  offset: 0, 0
+  index: -1
+chi3y
+  rotate: true
+  xy: 2, 2
+  size: 213, 359
+  orig: 213, 359
+  offset: 0, 0
+  index: -1
+chi3z
+  rotate: false
+  xy: 327, 676
+  size: 266, 334
+  orig: 266, 334
+  offset: 0, 0
+  index: -1
+chiy
+  rotate: false
+  xy: 655, 433
+  size: 262, 251
+  orig: 262, 251
+  offset: 0, 0
+  index: -1
+chiz
+  rotate: true
+  xy: 2, 217
+  size: 384, 319
+  orig: 384, 319
+  offset: 0, 0
+  index: -1
+houjiaoy
+  rotate: true
+  xy: 919, 588
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+qianzhuay
+  rotate: true
+  xy: 816, 103
+  size: 124, 81
+  orig: 124, 81
+  offset: 0, 0
+  index: -1
+qianzhuaz
+  rotate: false
+  xy: 648, 76
+  size: 166, 151
+  orig: 166, 151
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 323, 232
+  size: 313, 190
+  orig: 313, 190
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 363, 7
+  size: 223, 283
+  orig: 223, 283
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 655, 229
+  size: 269, 202
+  orig: 269, 202
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 648, 47
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1

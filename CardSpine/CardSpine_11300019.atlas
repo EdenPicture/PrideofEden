@@ -1,0 +1,531 @@
+
+CardSpine_11300019.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_98
+  rotate: false
+  xy: 440, 0
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+jiao_02
+  rotate: false
+  xy: 1004, 258
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+jiao_03
+  rotate: false
+  xy: 195, 166
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+l_eye_hurt
+  rotate: false
+  xy: 1014, 1003
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+l_eye_stun
+  rotate: false
+  xy: 1014, 982
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+l_eye_x1
+  rotate: false
+  xy: 1014, 961
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle12
+  rotate: false
+  xy: 659, 70
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle13
+  rotate: false
+  xy: 721, 67
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle14
+  rotate: true
+  xy: 0, 5
+  size: 157, 233
+  orig: 157, 233
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle15
+  rotate: true
+  xy: 672, 818
+  size: 206, 232
+  orig: 206, 232
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle16
+  rotate: false
+  xy: 928, 331
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle17
+  rotate: false
+  xy: 945, 625
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle18
+  rotate: false
+  xy: 797, 248
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle19
+  rotate: false
+  xy: 800, 313
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle23
+  rotate: false
+  xy: 455, 603
+  size: 217, 210
+  orig: 217, 210
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle24
+  rotate: false
+  xy: 218, 787
+  size: 222, 237
+  orig: 222, 237
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle25
+  rotate: true
+  xy: 972, 734
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle26
+  rotate: false
+  xy: 831, 189
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle27
+  rotate: false
+  xy: 904, 802
+  size: 91, 45
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle28
+  rotate: false
+  xy: 900, 680
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle29
+  rotate: false
+  xy: 928, 285
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle30
+  rotate: false
+  xy: 572, 73
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle31
+  rotate: true
+  xy: 233, 13
+  size: 246, 130
+  orig: 246, 130
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle32
+  rotate: true
+  xy: 426, 337
+  size: 251, 144
+  orig: 251, 144
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle36
+  rotate: false
+  xy: 927, 252
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle38
+  rotate: false
+  xy: 441, 114
+  size: 126, 154
+  orig: 126, 154
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle39
+  rotate: false
+  xy: 363, 15
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle40
+  rotate: false
+  xy: 869, 625
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle41
+  rotate: false
+  xy: 632, 23
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle44
+  rotate: true
+  xy: 718, 126
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle45
+  rotate: false
+  xy: 702, 388
+  size: 146, 237
+  orig: 146, 237
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle46
+  rotate: false
+  xy: 706, 180
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle47
+  rotate: false
+  xy: 572, 0
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle48
+  rotate: false
+  xy: 900, 735
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle49
+  rotate: true
+  xy: 218, 588
+  size: 199, 237
+  orig: 199, 237
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle50
+  rotate: true
+  xy: 163, 197
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle51
+  rotate: false
+  xy: 0, 585
+  size: 218, 439
+  orig: 218, 439
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle52
+  rotate: true
+  xy: 848, 469
+  size: 156, 176
+  orig: 156, 176
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle53
+  rotate: true
+  xy: 268, 259
+  size: 82, 158
+  orig: 82, 158
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle54
+  rotate: false
+  xy: 904, 847
+  size: 110, 177
+  orig: 110, 177
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle55
+  rotate: false
+  xy: 570, 349
+  size: 132, 254
+  orig: 132, 254
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle56
+  rotate: false
+  xy: 875, 199
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle57
+  rotate: false
+  xy: 780, 8
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle58
+  rotate: false
+  xy: 455, 592
+  size: 47, 11
+  orig: 47, 11
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle59
+  rotate: false
+  xy: 230, 266
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle60
+  rotate: false
+  xy: 702, 349
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle61
+  rotate: false
+  xy: 672, 625
+  size: 197, 193
+  orig: 197, 193
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle62
+  rotate: true
+  xy: 848, 368
+  size: 101, 169
+  orig: 101, 169
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle63
+  rotate: false
+  xy: 363, 94
+  size: 78, 165
+  orig: 78, 165
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle64
+  rotate: false
+  xy: 440, 813
+  size: 232, 211
+  orig: 232, 211
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle65
+  rotate: false
+  xy: 702, 353
+  size: 98, 35
+  orig: 98, 35
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle66
+  rotate: true
+  xy: 730, 273
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle67
+  rotate: false
+  xy: 163, 162
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle68
+  rotate: false
+  xy: 766, 122
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle69
+  rotate: false
+  xy: 760, 186
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle70
+  rotate: true
+  xy: 995, 814
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle71
+  rotate: false
+  xy: 720, 0
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle72
+  rotate: true
+  xy: 848, 315
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle73
+  rotate: true
+  xy: 869, 680
+  size: 138, 31
+  orig: 138, 31
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle74
+  rotate: true
+  xy: 521, 0
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle75
+  rotate: true
+  xy: 567, 179
+  size: 70, 139
+  orig: 70, 139
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle76
+  rotate: true
+  xy: 567, 123
+  size: 56, 151
+  orig: 56, 151
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle77
+  rotate: true
+  xy: 573, 249
+  size: 100, 157
+  orig: 100, 157
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle78
+  rotate: true
+  xy: 426, 268
+  size: 69, 147
+  orig: 69, 147
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle79
+  rotate: true
+  xy: 441, 61
+  size: 53, 131
+  orig: 53, 131
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle80
+  rotate: false
+  xy: 963, 680
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle81
+  rotate: false
+  xy: 862, 250
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle82
+  rotate: true
+  xy: 766, 68
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle83
+  rotate: false
+  xy: 163, 278
+  size: 105, 307
+  orig: 105, 307
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle84
+  rotate: false
+  xy: 0, 162
+  size: 163, 423
+  orig: 163, 423
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle85
+  rotate: true
+  xy: 268, 341
+  size: 247, 158
+  orig: 247, 158
+  offset: 0, 0
+  index: -1
+liliyongzhuang_battle_x
+  rotate: false
+  xy: 440, 795
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+r_eye_1
+  rotate: true
+  xy: 672, 603
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+r_eye_hurt
+  rotate: false
+  xy: 632, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+r_eye_stun
+  rotate: false
+  xy: 730, 252
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

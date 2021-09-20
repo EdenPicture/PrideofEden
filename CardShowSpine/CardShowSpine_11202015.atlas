@@ -1,0 +1,286 @@
+
+CardShowSpine_11202015.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h0
+  rotate: false
+  xy: 842, 566
+  size: 148, 198
+  orig: 148, 198
+  offset: 0, 0
+  index: -1
+h1
+  rotate: true
+  xy: 143, 9
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+h10
+  rotate: false
+  xy: 246, 109
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+h11
+  rotate: true
+  xy: 225, 34
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+h12
+  rotate: true
+  xy: 860, 412
+  size: 152, 162
+  orig: 152, 162
+  offset: 0, 0
+  index: -1
+h13
+  rotate: false
+  xy: 310, 665
+  size: 229, 357
+  orig: 229, 357
+  offset: 0, 0
+  index: -1
+h14
+  rotate: true
+  xy: 528, 376
+  size: 212, 264
+  orig: 212, 264
+  offset: 0, 0
+  index: -1
+h15
+  rotate: false
+  xy: 635, 5
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+h16
+  rotate: false
+  xy: 310, 651
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+h17
+  rotate: false
+  xy: 837, 583
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 537, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 862, 151
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+h30
+  rotate: false
+  xy: 697, 34
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+h31
+  rotate: true
+  xy: 246, 146
+  size: 49, 77
+  orig: 49, 77
+  offset: 0, 0
+  index: -1
+h32
+  rotate: false
+  xy: 862, 50
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+h33
+  rotate: true
+  xy: 350, 14
+  size: 89, 154
+  orig: 89, 154
+  offset: 0, 0
+  index: -1
+h34
+  rotate: false
+  xy: 838, 279
+  size: 114, 131
+  orig: 114, 131
+  offset: 0, 0
+  index: -1
+h35
+  rotate: false
+  xy: 857, 766
+  size: 145, 256
+  orig: 145, 256
+  offset: 0, 0
+  index: -1
+h36
+  rotate: true
+  xy: 581, 67
+  size: 117, 279
+  orig: 117, 279
+  offset: 0, 0
+  index: -1
+h37
+  rotate: false
+  xy: 325, 198
+  size: 254, 168
+  orig: 254, 168
+  offset: 0, 0
+  index: -1
+h38
+  rotate: true
+  xy: 581, 236
+  size: 138, 255
+  orig: 138, 255
+  offset: 0, 0
+  index: -1
+h39
+  rotate: false
+  xy: 2, 2
+  size: 139, 245
+  orig: 139, 245
+  offset: 0, 0
+  index: -1
+h4
+  rotate: true
+  xy: 2, 249
+  size: 387, 243
+  orig: 387, 243
+  offset: 0, 0
+  index: -1
+h40
+  rotate: false
+  xy: 506, 31
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+h41
+  rotate: false
+  xy: 143, 69
+  size: 101, 178
+  orig: 101, 178
+  offset: 0, 0
+  index: -1
+h42
+  rotate: false
+  xy: 954, 300
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+h43
+  rotate: false
+  xy: 794, 447
+  size: 41, 141
+  orig: 41, 141
+  offset: 0, 0
+  index: -1
+h44
+  rotate: false
+  xy: 794, 380
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+h45
+  rotate: true
+  xy: 571, 22
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+h47
+  rotate: false
+  xy: 982, 261
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+h48
+  rotate: false
+  xy: 246, 2
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+h49
+  rotate: false
+  xy: 247, 197
+  size: 76, 439
+  orig: 76, 439
+  offset: 0, 0
+  index: -1
+h5
+  rotate: false
+  xy: 325, 105
+  size: 254, 91
+  orig: 254, 91
+  offset: 0, 0
+  index: -1
+h50
+  rotate: false
+  xy: 541, 781
+  size: 314, 241
+  orig: 314, 241
+  offset: 0, 0
+  index: -1
+h51
+  rotate: false
+  xy: 2, 638
+  size: 306, 384
+  orig: 306, 384
+  offset: 0, 0
+  index: -1
+h52
+  rotate: false
+  xy: 581, 186
+  size: 277, 48
+  orig: 277, 48
+  offset: 0, 0
+  index: -1
+h6
+  rotate: false
+  xy: 325, 368
+  size: 201, 295
+  orig: 201, 295
+  offset: 0, 0
+  index: -1
+h7
+  rotate: false
+  xy: 541, 590
+  size: 299, 189
+  orig: 299, 189
+  offset: 0, 0
+  index: -1
+h8
+  rotate: false
+  xy: 982, 230
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+h9
+  rotate: false
+  xy: 506, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
